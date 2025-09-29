@@ -1,0 +1,8 @@
+op=QUIT
+startMs=256103256
+endMs=256103258
+durationSec=0.001886
+bytesSent=7
+bytesRecv=5
+sendBps=3710.77
+recvBps=2650.55
